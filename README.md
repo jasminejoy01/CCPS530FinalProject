@@ -1,7 +1,7 @@
 # CCPS530FinalProject
 
 Name: Jasmine Joy <br>
-Online Demo:https://youtu.be/kLjYN6A6jc8 <br>
+Online Demo: https://youtu.be/kLjYN6A6jc8 <br>
 Project Title: CCPS530 Final Project<br>
 License: MIT License<br>
 Project URL: https://jjoyportfolio.com/finalproject/home.php <br>
