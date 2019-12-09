@@ -1,4 +1,4 @@
-# CCPS530FinalProject
+# CCPS530 - FinalProject
 
 Name: Jasmine Joy <br>
 Online Demo: https://youtu.be/kLjYN6A6jc8 <br>
