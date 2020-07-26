@@ -9,7 +9,7 @@ Project URL: https://jjoyportfolio.com/finalproject/home.php <br>
 Overview of Website Layout:<br>
 ![diagram](https://user-images.githubusercontent.com/55416635/70406282-39372100-1a0e-11ea-9614-fcd295483e75.png)
 
-Online Demoe:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/kLjYN6A6jc8)
+Online Demo:<br>
+[![Watch the video]](https://youtu.be/kLjYN6A6jc8)
 
 
